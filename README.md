@@ -2,6 +2,16 @@
 
 A real-time polling system with state recovery, featuring separate interfaces for teachers and students. Built with React, Node.js, Socket.io, and MongoDB.
 
+## 🔗 Live Demo
+
+**Coming Soon!** Follow the deployment guide in [DEPLOYMENT_LIVE.md](./DEPLOYMENT_LIVE.md) to deploy your own instance.
+
+<!-- After deployment, update these links:
+- **Frontend**: https://your-app.vercel.app
+- **Backend**: https://your-backend.onrender.com
+-->
+
+
 ## 🌟 Features
 
 ### Core Features
