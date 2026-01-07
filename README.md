@@ -351,6 +351,3 @@ polling-system/
 
 This project is created for the Intervue Assignment.
 
-## 🤝 Support
-
-For issues or questions, please check the code comments or reach out to the development team.
