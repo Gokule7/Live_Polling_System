@@ -31,22 +31,6 @@
   - Prevents duplicate votes even with API spam
   - Server-side validation + DB constraints
 
-### Bonus Features
-- ✅ **Live Chat System**
-  - Real-time messaging between teachers and students
-  - Persistent chat history in MongoDB
-  - Floating popup interface
-  
-- ✅ **Configurable Poll Duration**
-  - Teachers can set custom time limits
-  - Range: 10-300 seconds
-  
-- ✅ **Professional UI**
-  - Gradient-based design
-  - Responsive layout
-  - Smooth animations
-  - Real-time progress bars
-
 ## 🏗️ Architecture Excellence
 
 ### Backend (Clean Separation of Concerns)
@@ -346,29 +330,4 @@ Your implementation includes:
 - ✅ Bonus features
 - ✅ Complete documentation
 
-## 🙏 Acknowledgments
 
-This project demonstrates:
-- Full-stack development skills
-- Real-time application architecture
-- Database design and integration
-- State management patterns
-- Clean code principles
-- Professional documentation
-
----
-
-**Project Status:** ✅ Complete and Ready for Demo
-
-**Estimated Setup Time:** 15-20 minutes (local) | 30-45 minutes (deployment)
-
-**Recommended Demo Flow:**
-1. Show architecture (Controller-Service pattern)
-2. Demo teacher creating poll
-3. Demo student voting
-4. Demo state recovery (refresh during poll)
-5. Demo timer sync (late joiner)
-6. Show poll history in MongoDB
-7. Demo chat feature
-
-Good luck with your Intervue Assignment! 🚀
